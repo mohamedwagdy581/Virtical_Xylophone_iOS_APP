@@ -1,0 +1,21 @@
+{
+  "" : {
+    "dependencies" : "/Users/makbwk/Documents/iOS Projects/XylophoneApp/DerivedData/XylophoneApp/Index.noindex/Build/Intermediates.noindex/XylophoneApp.build/Debug-iphoneos/XylophoneApp.build/Objects-normal/arm64/XylophoneApp-master.d",
+    "diagnostics" : "/Users/makbwk/Documents/iOS Projects/XylophoneApp/DerivedData/XylophoneApp/Index.noindex/Build/Intermediates.noindex/XylophoneApp.build/Debug-iphoneos/XylophoneApp.build/Objects-normal/arm64/XylophoneApp-master.dia",
+    "emit-module-dependencies" : "/Users/makbwk/Documents/iOS Projects/XylophoneApp/DerivedData/XylophoneApp/Index.noindex/Build/Intermediates.noindex/XylophoneApp.build/Debug-iphoneos/XylophoneApp.build/Objects-normal/arm64/XylophoneApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/makbwk/Documents/iOS Projects/XylophoneApp/DerivedData/XylophoneApp/Index.noindex/Build/Intermediates.noindex/XylophoneApp.build/Debug-iphoneos/XylophoneApp.build/Objects-normal/arm64/XylophoneApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/makbwk/Documents/iOS Projects/XylophoneApp/DerivedData/XylophoneApp/Index.noindex/Build/Intermediates.noindex/XylophoneApp.build/Debug-iphoneos/XylophoneApp.build/Objects-normal/arm64/XylophoneApp-master.swiftdeps"
+  },
+  "/Users/makbwk/Documents/iOS Projects/XylophoneApp/DerivedData/XylophoneApp/Index.noindex/Build/Intermediates.noindex/XylophoneApp.build/Debug-iphoneos/XylophoneApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/makbwk/Documents/iOS Projects/XylophoneApp/XylophoneApp/AppDelegate.swift" : {
+
+  },
+  "/Users/makbwk/Documents/iOS Projects/XylophoneApp/XylophoneApp/SceneDelegate.swift" : {
+
+  },
+  "/Users/makbwk/Documents/iOS Projects/XylophoneApp/XylophoneApp/ViewController.swift" : {
+
+  }
+}

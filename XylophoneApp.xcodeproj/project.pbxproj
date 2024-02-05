@@ -13,6 +13,13 @@
 		D120309B2B70B72D0088FE44 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D12030992B70B72D0088FE44 /* Main.storyboard */; };
 		D120309D2B70B72E0088FE44 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D120309C2B70B72E0088FE44 /* Assets.xcassets */; };
 		D12030A02B70B72E0088FE44 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D120309E2B70B72E0088FE44 /* LaunchScreen.storyboard */; };
+		D12030A92B70C5130088FE44 /* note6.wav in Resources */ = {isa = PBXBuildFile; fileRef = D12030A82B70C5130088FE44 /* note6.wav */; };
+		D12030B02B70C51F0088FE44 /* note4.wav in Resources */ = {isa = PBXBuildFile; fileRef = D12030AA2B70C51F0088FE44 /* note4.wav */; };
+		D12030B12B70C51F0088FE44 /* note1.wav in Resources */ = {isa = PBXBuildFile; fileRef = D12030AB2B70C51F0088FE44 /* note1.wav */; };
+		D12030B22B70C51F0088FE44 /* note5.wav in Resources */ = {isa = PBXBuildFile; fileRef = D12030AC2B70C51F0088FE44 /* note5.wav */; };
+		D12030B32B70C51F0088FE44 /* note3.wav in Resources */ = {isa = PBXBuildFile; fileRef = D12030AD2B70C51F0088FE44 /* note3.wav */; };
+		D12030B42B70C51F0088FE44 /* note7.wav in Resources */ = {isa = PBXBuildFile; fileRef = D12030AE2B70C51F0088FE44 /* note7.wav */; };
+		D12030B52B70C51F0088FE44 /* note2.wav in Resources */ = {isa = PBXBuildFile; fileRef = D12030AF2B70C51F0088FE44 /* note2.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +31,13 @@
 		D120309C2B70B72E0088FE44 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D120309F2B70B72E0088FE44 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D12030A12B70B72E0088FE44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D12030A82B70C5130088FE44 /* note6.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = note6.wav; path = "../../../../../Downloads/xylophone-master 2/Xylophone/note6.wav"; sourceTree = "<group>"; };
+		D12030AA2B70C51F0088FE44 /* note4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = note4.wav; path = "../../../../../Downloads/xylophone-master 2/Xylophone/note4.wav"; sourceTree = "<group>"; };
+		D12030AB2B70C51F0088FE44 /* note1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = note1.wav; path = "../../../../../Downloads/xylophone-master 2/Xylophone/note1.wav"; sourceTree = "<group>"; };
+		D12030AC2B70C51F0088FE44 /* note5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = note5.wav; path = "../../../../../Downloads/xylophone-master 2/Xylophone/note5.wav"; sourceTree = "<group>"; };
+		D12030AD2B70C51F0088FE44 /* note3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = note3.wav; path = "../../../../../Downloads/xylophone-master 2/Xylophone/note3.wav"; sourceTree = "<group>"; };
+		D12030AE2B70C51F0088FE44 /* note7.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = note7.wav; path = "../../../../../Downloads/xylophone-master 2/Xylophone/note7.wav"; sourceTree = "<group>"; };
+		D12030AF2B70C51F0088FE44 /* note2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = note2.wav; path = "../../../../../Downloads/xylophone-master 2/Xylophone/note2.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,8 +77,23 @@
 				D120309C2B70B72E0088FE44 /* Assets.xcassets */,
 				D120309E2B70B72E0088FE44 /* LaunchScreen.storyboard */,
 				D12030A12B70B72E0088FE44 /* Info.plist */,
+				D12030A72B70BFCD0088FE44 /* Sound Files */,
 			);
 			path = XylophoneApp;
+			sourceTree = "<group>";
+		};
+		D12030A72B70BFCD0088FE44 /* Sound Files */ = {
+			isa = PBXGroup;
+			children = (
+				D12030AB2B70C51F0088FE44 /* note1.wav */,
+				D12030AF2B70C51F0088FE44 /* note2.wav */,
+				D12030AD2B70C51F0088FE44 /* note3.wav */,
+				D12030AA2B70C51F0088FE44 /* note4.wav */,
+				D12030AC2B70C51F0088FE44 /* note5.wav */,
+				D12030A82B70C5130088FE44 /* note6.wav */,
+				D12030AE2B70C51F0088FE44 /* note7.wav */,
+			);
+			path = "Sound Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +154,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D12030B42B70C51F0088FE44 /* note7.wav in Resources */,
+				D12030B52B70C51F0088FE44 /* note2.wav in Resources */,
+				D12030B12B70C51F0088FE44 /* note1.wav in Resources */,
 				D12030A02B70B72E0088FE44 /* LaunchScreen.storyboard in Resources */,
+				D12030A92B70C5130088FE44 /* note6.wav in Resources */,
+				D12030B02B70C51F0088FE44 /* note4.wav in Resources */,
 				D120309D2B70B72E0088FE44 /* Assets.xcassets in Resources */,
 				D120309B2B70B72D0088FE44 /* Main.storyboard in Resources */,
+				D12030B32B70C51F0088FE44 /* note3.wav in Resources */,
+				D12030B22B70C51F0088FE44 /* note5.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -295,11 +331,13 @@
 				DEVELOPMENT_TEAM = ZGP43ZHR7X;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = XylophoneApp/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -323,11 +361,13 @@
 				DEVELOPMENT_TEAM = ZGP43ZHR7X;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = XylophoneApp/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

@@ -1,0 +1,59 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "e1b2f9849b85e2c2505fc8f3017d88c6816a2fe2fdcbc57b0cdd55ed2737e4d3"
+    }
+  ],
+  "containerPath" : "/Users/makbwk/Documents/iOS Projects/XylophoneApp/XylophoneApp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/makbwk/Documents/iOS Projects/XylophoneApp/DerivedData/XylophoneApp/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/makbwk/Documents/iOS Projects/XylophoneApp/DerivedData/XylophoneApp/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/makbwk/Documents/iOS Projects/XylophoneApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/makbwk/Documents/iOS Projects/XylophoneApp/DerivedData/XylophoneApp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/makbwk/Documents/iOS Projects/XylophoneApp/DerivedData/XylophoneApp/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/makbwk/Documents/iOS Projects/XylophoneApp/DerivedData/XylophoneApp/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/makbwk/Documents/iOS Projects/XylophoneApp/DerivedData/XylophoneApp/Build/Products",
+      "pchPath" : "/Users/makbwk/Documents/iOS Projects/XylophoneApp/DerivedData/XylophoneApp/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
